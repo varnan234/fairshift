@@ -1,0 +1,29 @@
+# Intermediates & secrets
+.tmp/
+.env
+credentials.json
+token.json
+
+# Python
+execution/.venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# Node
+dashboard/node_modules/
+dashboard/dist/
+dashboard/.vite/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*.swo
